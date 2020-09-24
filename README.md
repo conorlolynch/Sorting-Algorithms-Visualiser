@@ -21,7 +21,7 @@ To get the visualiser running choose an algorithm from the algorithm drop down m
 
 ## Demonstration
 
-TO BE ADDED
+![alt text](images/algorithms_gif.gif)
 
 ## Additional Information
 
