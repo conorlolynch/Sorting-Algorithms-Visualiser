@@ -23,6 +23,9 @@ To get the visualiser running choose an algorithm from the algorithm drop down m
 
 TO BE ADDED
 
+### Additional Information
+
+- This program uses threading to be able to adjust sorting speed while the sorting algorithm is running as well as being able to stop the algorithm mid sort.
 
 ### Desired Features
 - Make GUI prettier.
